@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael
 - 👀 I’m interested in books, making videos, 3d and games
-- 🌱 I’m currently learning JAVA, Unity, Python
-- 💞️ I’m looking to learn more
+- 🌱 I’m currently learning Javascript, JAVA, Python
+- 💞️ I’m looking to learn more and make friends
 - 📫 How to reach me ...@rafawat04 (instagram)
 
 <!---
